@@ -46,7 +46,7 @@ Id CommandLine
   44 git remote -v
   45 git status
   46 git push origin main
-  47 git remote set-url origin https://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@github.com/Ashish7680/github-demo.git     
+     
   48 git remote -v
-  49 git push origin master
+
   50 git push origin main
